@@ -63,7 +63,7 @@ export default function AddSmurfs() {
       <br />
 
       <input
-        type="number"
+        type="text"
         name="height"
         placeholder="Height"
         value={newSmurf.height}
